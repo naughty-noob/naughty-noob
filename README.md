@@ -20,7 +20,7 @@
 
 <div align="center">
 <a href="https://discord.com/users/382955775875874817" target="_blank">
-  <img src="https://discord.c99.nl/widget/theme-2/382955775875874817.png" alt="Discord" />
+  <img src="https://discord.c99.nl/widget/theme-2/382955775875874817.png" />
 </a>
 </div>
 
