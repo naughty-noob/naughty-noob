@@ -34,8 +34,8 @@
 
 ```diff
 + Always online
-+ trying to learn new stuff 
-+ Building stuff when i feel like it
++ Still learning new stuff
++ Building stuff when I feel like it
 ```
 
 </div>
@@ -59,6 +59,8 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=naughty-noob&theme=dark&hide_border=true&background=000000&ring=2A2A2A&fire=4A4A4A&currStreakLabel=6E6E6E&sideLabels=6E6E6E&dates=4A4A4A&stroke=1A1A1A)
+
+</div>
 
 <br>
 
